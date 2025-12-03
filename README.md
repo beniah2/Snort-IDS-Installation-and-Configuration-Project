@@ -100,8 +100,14 @@ var HOME_NET 192.168.1.0/24
 ## Deliverables
 
 • Full installation and configuration documentation.
+
+
 • Verified screenshots showing each step.
+
+
 • Configured Snort environment ready for rule testing and detection.
+
+
 • Prepared platform for log analysis sessions.
 
 
