@@ -94,9 +94,15 @@ var HOME_NET 192.168.1.0/24
 
 <img width="1066" height="790" alt="image" src="https://github.com/user-attachments/assets/4df742dc-7864-4a86-a7c5-f394c88841b9" />
 
-   
 
+   ---
 
+## Deliverables
+
+• Full installation and configuration documentation.
+• Verified screenshots showing each step.
+• Configured Snort environment ready for rule testing and detection.
+• Prepared platform for log analysis sessions.
 
 
 
